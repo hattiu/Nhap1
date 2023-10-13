@@ -7,6 +7,9 @@ namespace Nhap1.Models
         [Key]
         public string MaPB { get; set; }
         public string TenPB { get; set; }
+        public string Address { get; set; }
+        
+        
         
         
         
